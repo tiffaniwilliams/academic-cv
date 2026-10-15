@@ -25,11 +25,11 @@ hugoblox:
     tagline: ""
     
     # Site meta description for search engines and social sharing
-    description: "Tiffani L. Williams, Teaching Professor of Computer Science"
+    description: "Tiffani L. Williams, Teaching Professor and iCAN Director at the University of Illinois Urbana-Champaign"
     
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "tlwilliamsphd"
+    #social:
+    #  twitter: "tlwilliamsphd"
 
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -107,52 +107,52 @@ hugoblox:
   # FOOTER
   # Site footer
   # ────────────────────────────────────────────────────────────────────────────
-  footer:
+#  footer:
     # Footer style variant
-    style: minimal # minimal | columns | centered
-    language_switcher: true
+#    style: minimal # minimal | columns | centered
+#    language_switcher: true
     # Custom footer text (HTML supported)
-    text: ""
+#    text: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
   # Legal notices and licensing
   # ────────────────────────────────────────────────────────────────────────────
-  copyright:
+#  copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
-    license:
-      type: cc # cc | custom
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+#    notice: "© {year} {name}. This work is licensed under {license}"
+#    license:
+#      type: cc # cc | custom
+#      allow_derivatives: false
+#      share_alike: true
+#      allow_commercial: false
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEO
   # Search engine optimization - overrides and technical settings
   # ────────────────────────────────────────────────────────────────────────────
-  seo:
-    # Browser tab title override (defaults to identity.name if not set)
-    title: ""
-    # For local_business identity type only
-    location:
-      address:
-        street: ""
-        city: ""
-        region: ""
-        postal_code: ""
-        country: ""
-      coordinates:
-        latitude: null
-        longitude: null
-      phone: ""
-    # AI/LLM crawler guidance (llms.txt)
-    ai:
-      allow:
-        - /
-      disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+  # seo:
+  #   # Browser tab title override (defaults to identity.name if not set)
+  #   title: ""
+  #   # For local_business identity type only
+  #   location:
+  #     address:
+  #       street: ""
+  #       city: ""
+  #       region: ""
+  #       postal_code: ""
+  #       country: ""
+  #     coordinates:
+  #       latitude: null
+  #       longitude: null
+  #     phone: ""
+  #   # AI/LLM crawler guidance (llms.txt)
+  #   ai:
+  #     allow:
+  #       - /
+  #     disallow: []
+  #     note: "Guidance for AI crawlers - customize to match your public content."
+  #     contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
