@@ -59,3 +59,19 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/publication/*"
+  to = "/publications/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/post/*"
+  to = "/blog/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/files/cv.pdf"
+  to = "/uploads/cv.pdf"
+  status = 301
+  
