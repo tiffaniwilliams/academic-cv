@@ -1,0 +1,6 @@
+# Labels for publication types not covered by the theme
+- id: pub_article_magazine
+  translation: Magazine article
+
+- id: pub_post_weblog
+  translation: Blog post

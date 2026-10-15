@@ -1,0 +1,17 @@
+---
+title: CV
+summary: Short biography and downloadable CVs for Tiffani L. Williams.
+date: 2026-10-14
+share: false
+reading_time: false
+show_date: false
+---
+
+## Short Biography
+
+Tiffani L. Williams is a Teaching Professor in the Siebel School of Computing and Data Science at the University of Illinois Urbana-Champaign, where she founded and directs iCAN, a one-year program that prepares college graduates from any field to pursue graduate study in computer science. Before joining Illinois, she founded the Align program at Northeastern University–Charlotte and spent twelve years on the computer science faculty at Texas A&M University, where her NSF-funded research focused on computational phylogenetics. Her honors include an Alfred P. Sloan Postdoctoral Fellowship, a Radcliffe Fellowship at Harvard, and the Denice Denton Emerging Leader ABIE Award. She earned her Ph.D. in computer science from the University of Central Florida.
+
+## Download CV
+
+{{< button url="/uploads/cv.pdf" new_tab="true" icon="hero/arrow-down-tray" >}}Full CV (PDF){{< /button >}}
+{{< button url="/uploads/cv-short.pdf" new_tab="true" icon="hero/arrow-down-tray" style="secondary" >}}Short CV (PDF){{< /button >}}
