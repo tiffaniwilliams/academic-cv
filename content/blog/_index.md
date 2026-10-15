@@ -1,4 +1,7 @@
 ---
-# title: Blog
-# view: article-grid
- ---
+title: Blog
+view: article-grid
+
+build:
+  render: never
+---
