@@ -118,16 +118,12 @@ hugoblox:
   # COPYRIGHT
   # Legal notices and licensing
   # ────────────────────────────────────────────────────────────────────────────
-#  copyright:
-    # Copyright notice - supports {year}, {name}, {license} placeholders
-#    notice: "© {year} {name}. This work is licensed under {license}"
-#    license:
-#      type: cc # cc | custom
-#      allow_derivatives: false
-#      share_alike: true
-#      allow_commercial: false
+  copyright:
+    notice: "© {year} {name}" 
+    license:
+      type: none
 
-  # ────────────────────────────────────────────────────────────────────────────
+#   ────────────────────────────────────────────────────────────────────────────
   # SEO
   # Search engine optimization - overrides and technical settings
   # ────────────────────────────────────────────────────────────────────────────
