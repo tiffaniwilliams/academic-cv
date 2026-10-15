@@ -1,6 +1,6 @@
 ---
 title: Bio & CV
-summary: Short biography and downloadable CVs for Tiffani L. Williams.
+summary: Short biography and downloadable CV for Tiffani L. Williams.
 date: 2026-10-14
 share: false
 reading_time: false
@@ -15,4 +15,4 @@ Tiffani’s honors include an Alfred P. Sloan Postdoctoral Fellowship (2002), an
 
 ## Download CV
 
-{{< button url="/uploads/cv.pdf" new_tab="true" icon="hero/arrow-down-tray" >}}Full CV (PDF){{< /button >}}
+{{< button url="/uploads/cv.pdf" new_tab="true" icon="hero/arrow-down-tray" >}}Download CV (PDF){{< /button >}}
