@@ -1,0 +1,5 @@
+/* Smaller text for the short biography on the Bio & CV page */
+.short-bio p {
+  font-size: 1.0rem;
+  line-height: 1.7;
+}
