@@ -19,4 +19,4 @@ Tiffani’s honors include an Alfred P. Sloan Postdoctoral Fellowship (2002), an
 
 ## Curriculum Vitae
 
-{{< button url="/uploads/cv.pdf" new_tab="true" icon="hero/arrow-down-tray" >}}Download CV (PDF){{< /button >}}
+{{< button url="/uploads/Tiffani_Williams_CV.pdf" new_tab="true" icon="hero/arrow-down-tray" >}}Download CV (PDF){{< /button >}}
